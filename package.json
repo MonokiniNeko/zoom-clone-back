@@ -1,0 +1,13 @@
+{
+  "name": "zoom-clone-back-end",
+  "version": "1.0.0",
+  "description": "back end of the zoom clone",
+  "main": "app.js",
+  "author": "MonokiniNeko",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  }
+}
